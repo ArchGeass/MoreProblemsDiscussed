@@ -1,4 +1,9 @@
 # MoreProblemsDiscussed
-个人问题探讨仓库，包含许多完全不同的问题，用`branch`区分
+尝试用*策略模式*的方式修改`switch case`部分，使代码优化
 
-`default:master`永远保持clean
+## 尝试用class的方式实现策略模式
+[see]()
+
+
+## 尝试用enum的方式实现策略模式
+[see]()
