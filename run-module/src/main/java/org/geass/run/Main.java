@@ -1,9 +1,9 @@
-package org.geass.parent;
+package org.geass.run;
 
 import org.geass.child.ChildStaticClass;
 
 //@SpringBootApplication
-public class ParentMainClass {
+public class Main {
     public static void main(String[] args) {
         ChildStaticClass.run();
 //        SpringApplication.run(ParentMainClass.class, args);
